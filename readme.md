@@ -157,9 +157,9 @@ Feel free to fork this repo and improve it.
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
