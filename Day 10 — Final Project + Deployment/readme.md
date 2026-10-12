@@ -182,6 +182,8 @@ You can now:
 ---
 
 
+
+
 # Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
@@ -192,28 +194,47 @@ You can now:
 
 🎓 **BSc in Computer Science & Engineering (CSE)** _(Ongoing)_ **at [Sylhet International University (SIU)](https://siu.edu.bd/)**
 
-📧 **Email:** monjurmbm404@gmail.com
-
 ---
 
-## ⭐ Support the Project
+## Support the Project
 
 If you found this repository helpful, please consider giving it a **⭐ Star**. It helps others discover the project and motivates future development.
 
 ---
 
-## 🌐 Connect with Me
 
-| Platform       | Link                                        |
-| -------------- | ------------------------------------------- |
-| 💻 GitHub      | https://github.com/monjurmbm404             |
-| 💼 LinkedIn    | https://linkedin.com/in/monjurmbm404        |
-| 🧩 LeetCode    | https://leetcode.com/u/monjurmbm404         |
-| ⚔️ Codeforces  | https://codeforces.com/profile/monjurmbm404 |
-| 🍽️ CodeChef    | https://www.codechef.com/users/monjurmbm404 |
-| 🏆 VJudge      | https://vjudge.net/user/monjurmbm404        |
-| 📘 Facebook    | https://www.facebook.com/monjurmbm404       |
-| 🐦 X (Twitter) | https://x.com/monjurmbm404                  |
-| ▶️ YouTube     | https://youtube.com/@monjurmbm404           |
-| ✍️ Medium      | https://medium.com/@monjurmbm404            |
+## Connect with Me
+
+### Professional Profiles
+
+| Platform | Link |
+|:---|:---|
+| Portfolio | [monjurmbm404.github.io](https://monjurmbm404.github.io) |
+| GitHub | [monjurmbm404](https://github.com/monjurmbm404) |
+| LinkedIn | [monjurmbm404](https://www.linkedin.com/in/monjurmbm404) |
+| Medium | [@monjurmbm404](https://medium.com/@monjurmbm404) |
+
+### Competitive Programming
+
+| Platform | Link |
+|:---|:---|
+| Codeforces | [monjurmbm404](https://codeforces.com/profile/monjurmbm404) |
+| CodeChef | [monjurmbm404](https://www.codechef.com/users/monjurmbm404) |
+| LeetCode | [monjurmbm404](https://leetcode.com/u/monjurmbm404) |
+| VJudge | [monjurmbm404](https://vjudge.net/user/monjurmbm404) |
+
+### Social Media
+
+| Platform | Link |
+|:---|:---|
+| Facebook | [monjurmbm404](https://www.facebook.com/monjurmbm404) |
+| X (Twitter) | [@monjurmbm404](https://x.com/monjurmbm404) |
+| YouTube | [@monjurmbm404](https://youtube.com/@monjurmbm404) |
+
+### Contact Information
+
+| Type | Email |
+|:---|:---|
+| Professional | [monjurmbm404@gmail.com](mailto:monjurmbm404@gmail.com) |
+
 
